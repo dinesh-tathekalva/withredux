@@ -1,11 +1,11 @@
 import React from 'react';
-import Ninja from './components/Ninja'
+import Posts from './components/Posts'
 
 function App() {
   return (
     <div className="App">
       {/* <div> Test</div> */}
-      <Ninja />
+      <Posts />
     </div>
   );
 }
