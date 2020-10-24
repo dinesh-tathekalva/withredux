@@ -8,7 +8,7 @@ function App() {
       <Posts />
       <Button className="btn btn-primary">sindhu</Button>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
