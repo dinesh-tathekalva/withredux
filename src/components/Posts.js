@@ -22,6 +22,7 @@ export default class Posts extends Component {
         return (
             <div>
                 <h1>Posts</h1>
+                                                 <h1>Posts</h1>
                 {postItems}
             </div>
         )
